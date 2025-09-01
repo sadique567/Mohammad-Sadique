@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ehtesham</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Sadique</h1>
 <h3 align="center">Flutter & .NET Developer | Building Powerful Mobile & Backend Solutions</h3>
 
 - 🚀 I specialize in *Flutter* for cross-platform mobile app development  
@@ -11,7 +11,7 @@
 <p align="left">
   </a>
 
-  <a href="https://stackoverflow.com/users/ehtes.well@gmail.com" target="blank">
+  <a href="https://stackoverflow.com/users/mohdsadiqu@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/ehteshamk_444" target="blank">

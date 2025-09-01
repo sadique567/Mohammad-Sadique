@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sadique</h1>
-<h3 align="center">Flutter & .NET Developer | Building Powerful Mobile & Backend Solutions</h3>
+<h3 align="center">Flutter | Building Powerful Mobile App</h3>
 
 - 🚀 I specialize in *Flutter* for cross-platform mobile app development  
 - 💼 Backend development using *.NET Core* with *SQL Server*  
 - 🔗 Integrated APIs, Firebase services, and real-time features in production apps
 
-- 📫 Reach me at: *ehtesham.flutter@gmail.com*
+- 📫 Reach me at: *mohdsadiqu008@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   </a>
 
-  <a href="https://stackoverflow.com/users/mohdsadiqu@gmail.com" target="blank">
+  <a href="https://stackoverflow.com/users/mohdsadiqu008@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/ehteshamk_444" target="blank">

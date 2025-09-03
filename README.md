@@ -2,7 +2,7 @@
 <h3 align="center">Flutter | Building Powerful Mobile App</h3>
 
 - 🚀 I specialize in *Flutter* for cross-platform mobile app development  
-- 💼 Backend development using *.NET Core* with *SQL Server*  
+- 💼 Backend development using *Node.js* with *MongoDB*  
 - 🔗 Integrated APIs, Firebase services, and real-time features in production apps
 
 - 📫 Reach me at: *mohdsadiqu008@gmail.com*

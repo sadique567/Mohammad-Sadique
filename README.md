@@ -10,14 +10,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   </a>
-
-  <a href="https://stackoverflow.com/users/mohdsadiqu008@gmail.com" target="blank">
+<!-- https://stackoverflow.com/users/27646164/mohammad-sadique -->
+  <a href="https://stackoverflow.com/users/27646164/mohammad-sadique" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/ehteshamk_444" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/ehteshamk" target="blank">
+<!--   https://leetcode.com/u/Sadique567/ -->
+  <a href="https://leetcode.com/u/Sadique567/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>

@@ -14,6 +14,9 @@
   <a href="https://leetcode.com/u/Sadique567/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.linkedin.com/in/mohammad-sadique-37b016227" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sadique567&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadique567&theme=radical" alt="GitHub Streak" height="160"/>
  </p> 
+ 
 <!--
 ###---
 

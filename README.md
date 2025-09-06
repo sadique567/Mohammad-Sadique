@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sadique</h1>
-<h3 align="center">🚀 Flutter Developer | Backend with Node.js & MongoDB</h3>
+<h3 align="center">🚀 Flutter Developer | Android Specialist | Backend with Node.js & MongoDB</h3>
 
 <p align="center">
   <a href="mailto:mohdsadiqu008@gmail.com">
@@ -19,9 +19,10 @@
 ---
 
 ### 👨‍💻 About Me
+- 📱 **2+ years of experience in Android development**  
 - 🌱 Passionate about building **cross-platform mobile apps** using **Flutter**  
 - 💼 Experienced in **backend development** with **Node.js & MongoDB**  
-- 🔗 Integrated **APIs, Firebase services, real-time features** in production apps  
+- 🔗 Skilled in **API integration, Firebase services, real-time features** for production apps  
 - 📫 Reach me at **mohdsadiqu008@gmail.com**
 
 ---
@@ -30,14 +31,13 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
 
 ---
